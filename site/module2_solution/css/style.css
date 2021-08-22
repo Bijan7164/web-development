@@ -67,6 +67,8 @@ header
   align-items: right;
   padding: 4px;
   background-color: lightseagreen;
+  border-color: black;
+  border-style: solid;
 }
 .container .section .text
 {
